@@ -1,3 +1,3 @@
-# React + Vite
+# React paginacja
 
-Prosta paginacja
+Prosta paginacja na frontend
